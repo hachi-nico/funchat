@@ -6,7 +6,7 @@ const Login = () => {
   return (
     <div id="login-page">
       <div id="login-card">
-        <h2 style={{ color: color.smoothBlack }}>Welcome to funchat</h2>
+        <h2 style={{ color: color.smoothBlack }}>Welcome to Chat n' Chill</h2>
         <button className="login-button google">
           <GoogleOutlined /> Sign In with Google
         </button>
