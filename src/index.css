@@ -73,6 +73,7 @@
   padding: 12px;
   border-radius: 8px;
   display: inline-block;
+  border: none;
 }
 
 .facebook {
